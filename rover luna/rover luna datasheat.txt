@@ -1,0 +1,13 @@
+aervo motor pin
+servo mortor left and right -------->  3
+
+motor pin (pinler yatmedi şimdilik sabit hiz kullandım)
+
+whell ----------------> 2,4,5
+
+gps pin ------> rx =9, tx = 10;
+
+
+
+
+
